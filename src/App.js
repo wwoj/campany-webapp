@@ -8,6 +8,7 @@ function App() {
     <HashRouter className="App">
       <header className="App-header">
         <Navbar/>
+        asdad
       </header>
       <Switch>
         <Route exact path="/" component={HomePage} />
